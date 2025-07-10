@@ -6,7 +6,7 @@ This project uses machine learning to predict **aerodynamic noise (in decibels)*
 
 ## 📌 Objective
 
-Develop and compare ML models (Linear, Ridge, Random Forest, XGBoost) on the [UCI Airfoil Self-Noise Dataset](https://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise), and extract insights about which physical parameters contribute most to airfoil-generated sound pressure levels.
+Develop and compare ML models (Linear, Ridge, Random Forest, XGBoost) on the [UCI Airfoil Self-Noise Dataset](https://archive.ics.uci.edu/dataset/291/airfoil+self+noise), and extract insights about which physical parameters contribute most to airfoil-generated sound pressure levels.
 
 ---
 
